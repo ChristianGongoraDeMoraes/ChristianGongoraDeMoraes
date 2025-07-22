@@ -41,8 +41,11 @@ Tools & Others
 </p>
 
 📫 Contato
+
 📍 Maringá – PR
+
 📧 Christianpimpo304@hotmail.com
+
 🔗 https://www.linkedin.com/in/christian-gongora-de-moraes-35a162243/
 
 <!--

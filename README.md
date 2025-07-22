@@ -1,5 +1,6 @@
 👋 Olá, eu sou o Christian Gongora de Moraes
-Sou um desenvolvedor Full-Stack com foco em Angular e C# (.NET). Atualmente estou cursando Engenharia de Software (2021–2025) e busco constantemente aprender e aplicar boas práticas no desenvolvimento de software.
+
+Sou um desenvolvedor Full-Stack com foco em Angular e C# (.NET). Sou formado em Engenharia de Software e busco constantemente aprender e aplicar boas práticas no desenvolvimento de software.
 
 🔍 Tenho conhecimentos sólidos em:
 
@@ -42,7 +43,7 @@ Tools & Others
 📫 Contato
 📍 Maringá – PR
 📧 Christianpimpo304@hotmail.com
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/christian-gongora-de-moraes-35a162243/
 
 <!--
 **ChristianGongoraDeMoraes/ChristianGongoraDeMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

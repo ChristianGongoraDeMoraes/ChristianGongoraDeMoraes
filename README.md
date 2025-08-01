@@ -1,22 +1,27 @@
-👋 Olá, eu sou o Christian Gongora de Moraes
+<h1>Olá, eu sou o Christian Gongora de Moraes</h1>
+
+
 
 Sou um desenvolvedor Full-Stack com foco em Angular e C# (.NET). Sou formado em Engenharia de Software e busco constantemente aprender e aplicar boas práticas no desenvolvimento de software.
 
 🔍 Tenho conhecimentos sólidos em:
 
-Desenvolvimento Web com Angular e .NET
+-> Desenvolvimento Web com Angular e .NET
 
-APIs RESTful
+-> APIs RESTful
 
-SQL e modelagem de dados
+-> SQL e modelagem de dados
 
-Princípios SOLID e Calisthenics
+-> Princípios SOLID e Calisthenics
 
-POO e UML
+-> POO e UML
 
-Metodologias Ágeis como Scrum e Kanban
+-> Metodologias Ágeis como Scrum e Kanban
 
 Sou apaixonado por resolver problemas com código, escrever software limpo e colaborar em projetos que geram impacto real.
+
+
+
 
 🛠️ Tech Stack
 

@@ -26,25 +26,39 @@ Sou apaixonado por resolver problemas com código, escrever software limpo e col
 🛠️ Tech Stack
 
 🛠️ Frontend{
+
   -Conhecimentos solidos em Html Css Js Ts
+  
   -Conhecimentos em Angular.js React Next
+  
 }
 
 🛠️ Backend{
+
   -Conhecimentos solidos em linguagens de programação como Java C#
+  
   -Conhecimentos solidos em ORM SQL CRUD MENSAGERIA MICROSERVICOS
+  
 }
 
 🛠️ Database{
+
   -SQL NOSQL
+  
 }
 
 🛠️ Tools & Others{
+
   -GIT GITHUB
+  
   -DOCKER
+  
   -CI/CD
+  
   -METODOLOGIAS AGEIS
+  
   -TESTES
+  
 }
 
 📫 Contato

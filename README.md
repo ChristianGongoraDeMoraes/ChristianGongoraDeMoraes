@@ -2,66 +2,43 @@
 
 
 
-Sou um desenvolvedor Full-Stack com foco em Angular e C# (.NET). Sou formado em Engenharia de Software e busco constantemente aprender e aplicar boas práticas no desenvolvimento de software.
-
-🔍 Tenho conhecimentos sólidos em:
-
--> Desenvolvimento Web com Angular e .NET
-
--> APIs RESTful
-
--> SQL e modelagem de dados
-
--> Princípios SOLID e Calisthenics
-
--> POO e UML
-
--> Metodologias Ágeis como Scrum e Kanban
-
-Sou apaixonado por resolver problemas com código, escrever software limpo e colaborar em projetos que geram impacto real.
+Sou um desenvolvedor Full-Stack com foco em Angular e C# (.NET). Sou formado em Engenharia de Software e busco constantemente aprender e aplicar boas práticas no desenvolvimento de software. Sou apaixonado por resolver problemas com código, escrever software limpo e colaborar em projetos que geram impacto real.
 
 
+🔍 CONHECIMENTOS
+
+    {
+      1. Desenvolvimento Web com Angular e .NET
+        
+      2. APIs RESTful
+        
+      3. SQL e Modelagem de dados(ER)
+        
+      4. Princípios SOLID, Calisthenics, DDD, POO e UML
+        
+      5. Metodologias Ágeis como Scrum e Kanban
+    }
 
 
-🛠️ Tech Stack
+🛠️ TECH
 
-🛠️ Frontend{
+    {
+    -Html Css Js Ts                                 ## Front
+    -Angular.js React Next
+    
+    -linguagens de programação como Java C#         ## Back  
+    -ORM SQL CRUD MENSAGERIA MICROSERVICOS
+    
+    -SQL NOSQL                                      ## Database
+    
+    -GIT GITHUB                                     ## Tools
+    -DOCKER
+    -CI/CD
+    -METODOLOGIAS AGEIS
+    -TESTES
+    }
 
-  -Conhecimentos solidos em Html Css Js Ts
-  
-  -Conhecimentos em Angular.js React Next
-  
-}
-
-🛠️ Backend{
-
-  -Conhecimentos solidos em linguagens de programação como Java C#
-  
-  -Conhecimentos solidos em ORM SQL CRUD MENSAGERIA MICROSERVICOS
-  
-}
-
-🛠️ Database{
-
-  -SQL NOSQL
-  
-}
-
-🛠️ Tools & Others{
-
-  -GIT GITHUB
-  
-  -DOCKER
-  
-  -CI/CD
-  
-  -METODOLOGIAS AGEIS
-  
-  -TESTES
-  
-}
-
-📫 Contato
+📫 CONTATO
 
 📍 Maringá – PR
 
